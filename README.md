@@ -25,11 +25,7 @@ The results will be saved under `./result'
 
 ## Running symbolic regression
 
-For each submodel, we run symbolic regression to obtain the mathematical formula, e.g. $(\Psi, \xi) \mapsto R_f$
-$$
-(\Psi, \xi) \mapsto R_f
-$$
-
+For each submodel, we run symbolic regression to obtain the mathematical formula, e.g. $(\Psi, \xi) \mapsto R_f$.
 ```
 cd pySR
 python train_pysr_final.py # to run the R_f governing equation
