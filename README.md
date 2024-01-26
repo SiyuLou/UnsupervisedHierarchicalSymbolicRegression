@@ -1,5 +1,5 @@
 # UnsupervisedHierarchicalSymbolicRegression
-This is the repository for paper  "Empowering Machines to Think Like Chemists: Unveiling Molecular Structure-Polarity Relationships with Hierarchical Symbolic Regression". [link of the paper]
+This is the repository for paper  ["Empowering Machines to Think Like Chemists: Unveiling Molecular Structure-Polarity Relationships with Hierarchical Symbolic Regression"](https://arxiv.org/abs/2401.13904).
 
 ![UHiSR framework](./pics/algorithm.png)
 
