@@ -21,7 +21,7 @@ To obtain polarity indices, can run below code. There will be three set of polar
 python train.py
 ```
 
-The results will be saved under `./result'
+The results will be saved under `./result`
 
 ## Running symbolic regression
 
